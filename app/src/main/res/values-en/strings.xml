@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application TP2</string>
+    <string name="detpoids">Determine your weight</string>
+    <string name="dettaille">Determine your size:</string>
+    <string name="Metre">Metre</string>
+    <string name="Centimetre">Centimeter</string>
+    <string name="Appreciation">Appreciation</string>
+    <string name="calcul">Calculate BMI</string>
+    <string name="Reset">Reset</string>
+    <string name="Resultat">Result</string>
+    <string name="clic">You have to click on the "Calculate BMI" button to get a result.</string>
+</resources>

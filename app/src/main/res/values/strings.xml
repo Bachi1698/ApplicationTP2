@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application TP2</string>
+    <string name="detpoids"> Déterminez votre taille : </string>
+    <string name="dettaille">Déterminez votre taille :</string>
+    <string name="Metre">Mètre</string>
+    <string name="Centimetre">Centimètre</string>
+    <string name="Appreciation">Appréciation</string>
+    <string name="calcul">Calculer l\'IMC </string>
+    <string name="Reset">Reset</string>
+    <string name="Resultat">Résultat</string>
+    <string name="clic">Vous devez cliquer sur le bouton « Calculer l\'IMC » pour obtenir un résultat.</string>
+</resources>
